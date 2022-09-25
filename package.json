@@ -1,0 +1,29 @@
+{
+  "name": "otot-e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kheekheekhee/OTOT-E.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kheekheekhee/OTOT-E/issues"
+  },
+  "homepage": "https://github.com/kheekheekhee/OTOT-E#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "node": "^18.9.1",
+    "nodemon": "^2.0.20",
+    "redis": "^4.3.1"
+  }
+}
